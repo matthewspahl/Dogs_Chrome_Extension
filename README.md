@@ -1,4 +1,4 @@
-# Dogs_Chrome_Extension
+# Dogs Chrome Extension
 Google Chrome extension that counts how many times the word "dog" appears on the pages you visit. Modified from online tutorial, "How To Make Chrome Extensions" by Kyle Robinson Young.
 
 https://www.youtube.com/watch?v=Ipa58NVGs_c
